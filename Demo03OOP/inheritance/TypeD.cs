@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo03OOP
+namespace Demo03OOP.inheritance
 {
     internal class TypeD : TypeA
     {
